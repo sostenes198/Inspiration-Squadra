@@ -1,13 +1,11 @@
-using System.Threading.Tasks;
-
 namespace AsyncAwait.GetAwaitGetResult
 {
     public class GetAwaitGetResultTest
     {
-        public static async Task TestarGetAwaiterGetResult()
+        public static void TestarGetAwaiterGetResult()
         {
-            await TesteObterResultadoUtilizandoResult.ObterResultado();
-            await TesteObterResultadoUtilizandoGetAwaiterGetResult.ObterResultado();
+            TesteObterResultadoUtilizandoResult.ObterResultado();
+            TesteObterResultadoUtilizandoGetAwaiterGetResult.ObterResultado();
         }
     }
 }

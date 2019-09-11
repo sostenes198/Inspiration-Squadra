@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Sostenes\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Sostenes\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_AsyncAwait.-697362806.00" t="ExcludeRecursive" />
-    <e p="D:\Projetos\C#\Inspiration-Squadra\AsyncAwait" t="IncludeRecursive">
-      <e p="Apresentacao-Squadra" t="Include">
-        <e p="15681102642706990.png" t="Include" />
-        <e p="Apresentacao-Async-Await.pptx" t="Include" />
-        <e p="async.jpg" t="Include" />
-        <e p="correctingcommonmistakesasyncawait-190620110109.pdf" t="Include" />
-        <e p="correctingcommonmistakesasyncawait-190620110109.pptx" t="Include" />
-        <e p="Topicos.txt" t="Include" />
-      </e>
+    <e p="C:\Users\sostenes.goncalves\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\sostenes.goncalves\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sostenes.goncalves\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\sostenes.goncalves\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sostenes.goncalves\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AsyncAwait.-544930543.00" t="ExcludeRecursive" />
+    <e p="D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait" t="IncludeRecursive">
       <e p="AsyncAwait.csproj" t="IncludeRecursive" />
       <e p="AsyncAwait.sln" t="IncludeFlat" />
       <e p="bin" t="ExcludeRecursive" />

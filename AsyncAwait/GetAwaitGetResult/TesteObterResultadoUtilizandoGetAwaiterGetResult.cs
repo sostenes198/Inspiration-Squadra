@@ -5,11 +5,11 @@ namespace AsyncAwait.GetAwaitGetResult
 {
     public class TesteObterResultadoUtilizandoGetAwaiterGetResult
     {
-        public static async Task ObterResultado()
+        public static void ObterResultado()
         {
             try
             {
-                var resultado = GeradorResultado().GetAwaiter().GetResult();
+                GerarResultado().GetAwaiter().GetResult();
             }
             catch(Exception ex)
             {
@@ -17,7 +17,7 @@ namespace AsyncAwait.GetAwaitGetResult
             }
         }
         
-        private static async Task<bool> GeradorResultado()
+        private static async Task<bool> GerarResultado()
         {
             await LancarExecao();
             return await Task.Run(() => true);

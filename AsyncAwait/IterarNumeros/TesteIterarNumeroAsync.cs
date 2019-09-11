@@ -1,5 +1,4 @@
 using System;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace AsyncAwait.IterarNumeros
@@ -9,7 +8,7 @@ namespace AsyncAwait.IterarNumeros
         public static async Task InterarNumeroAsync()
         {
             var task = IterarAsync();
-            
+
             for (int i = 0; i < 10; i++)
             {
                 var x = i;
@@ -19,9 +18,8 @@ namespace AsyncAwait.IterarNumeros
             await task;
         }
 
-        private static Task IterarAsync()
-        {
-            return Task.Run(() =>
+        private static Task IterarAsync() =>
+            Task.Run(() =>
             {
                 for (int i = 0; i < 10; i++)
                 {
@@ -29,6 +27,5 @@ namespace AsyncAwait.IterarNumeros
                     Console.WriteLine(x);
                 }
             });
-        }
     }
 }

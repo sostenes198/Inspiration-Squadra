@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38324ecb-8f36-47b3-a792-586aad546053" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AsyncAwait/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AsyncAwait/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AsyncAwait/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AsyncAwait/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigureAwait/ConfigureAwaitTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigureAwait/ConfigureAwaitTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwait.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwait.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwaitTryCatch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwaitTryCatch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueWith/TesteContinueWithCorreto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueWith/TesteContinueWithCorreto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueWith/TesteContinueWithIncorreto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueWith/TesteContinueWithIncorreto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetAwaitGetResult/GetAwaitGetResultTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GetAwaitGetResult/GetAwaitGetResultTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoGetAwaiterGetResult.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoGetAwaiterGetResult.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoResult.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoResult.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterarNumeros/IterarNumerosTeste.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IterarNumeros/IterarNumerosTeste.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterarNumeros/TesteIterNumeroAsyncSemCriarNovaTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IterarNumeros/TesteIterNumeroAsyncSemCriarNovaTask.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsync.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsyncConfigureAwait.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsyncConfigureAwait.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroSync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroSync.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetornoTaskMetodo/RetornoTaskMetodoTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RetornoTaskMetodo/RetornoTaskMetodoTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchCorreto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchCorreto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchIncorreto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchIncorreto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaCorreta.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaCorreta.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaIncorreta.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaIncorreta.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/AsyncAwait.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/AsyncAwait.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/AsyncAwait.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/AsyncAwait.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/AsyncAwait.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/AsyncAwait.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/AsyncAwait.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/AsyncAwait.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,20 +36,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/GetAwaitGetResult/GetAwaitGetResultTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchCorreto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RetornoTaskMetodo/RetornoTaskMetodoTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaIncorreta.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaCorreta.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoGetAwaiterGetResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GetAwaitGetResult/GetAwaitGetResultTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwaitTryCatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConfigureAwait/ConfigureAwaitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsyncConfigureAwait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IterarNumeros/TesteIterNumeroAsyncSemCriarNovaTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IterarNumeros/IterarNumerosTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContinueWith/TesteContinueWithIncorreto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContinueWith/ContinueWithTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContinueWith/TesteContinueWithCorreto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ValueTask/ValueTaskTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ValueTask/TesteValueTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchIncorreto.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/IterarNumeros/IterarNumerosTeste.cs" />
+        <option value="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaIncorreta.cs" />
+        <option value="$PROJECT_DIR$/ConfigureAwait/ConfigureAwaitTest.cs" />
+        <option value="$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwait.cs" />
+        <option value="$PROJECT_DIR$/ConfigureAwait/TesteConfigureAwaitTryCatch.cs" />
+        <option value="$PROJECT_DIR$/ContinueWith/TesteContinueWithCorreto.cs" />
+        <option value="$PROJECT_DIR$/ContinueWith/TesteContinueWithIncorreto.cs" />
+        <option value="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsync.cs" />
+        <option value="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroAsyncConfigureAwait.cs" />
+        <option value="$PROJECT_DIR$/IterarNumeros/TesteIterNumeroAsyncSemCriarNovaTask.cs" />
+        <option value="$PROJECT_DIR$/RetornoTaskMetodo/RetornoTaskMetodoTest.cs" />
+        <option value="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchCorreto.cs" />
+        <option value="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskBlocoTryCatchIncorreto.cs" />
+        <option value="$PROJECT_DIR$/GetAwaitGetResult/GetAwaitGetResultTest.cs" />
+        <option value="$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoGetAwaiterGetResult.cs" />
+        <option value="$PROJECT_DIR$/GetAwaitGetResult/TesteObterResultadoUtilizandoResult.cs" />
+        <option value="$PROJECT_DIR$/IterarNumeros/TesteIterarNumeroSync.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/RetornoTaskMetodo/TesteObterResultadoMetodoTaskFormaCorreta.cs" />
       </list>
     </option>
   </component>
@@ -33,44 +109,12 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectId" id="1Qh0U3ixJX2QdimzlXLJZIrIUGC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="AsyncAwait" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="AsyncAwait" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AsyncAwait" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="AsyncAwait" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AsyncAwait" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GetAwaitGetResult" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -90,19 +134,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/AsyncAwait.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.2" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AsyncAwait.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -120,55 +164,29 @@
       <updated>1568166422130</updated>
       <workItem from="1568166427567" duration="309000" />
       <workItem from="1568166959872" duration="330000" />
+      <workItem from="1568207537478" duration="1470000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="639000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532124" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -178,51 +196,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AsyncAwait.sln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetAwaitGetResult/GetAwaitGetResultTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <marker date="1568074729451" expanded="true" signature="110:360" ph="{...}" />
-            <marker date="1568074729451" expanded="true" signature="177:354" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1568166432988" expanded="true" signature="35:176" ph="{...}" />
-            <marker date="1568166432988" expanded="true" signature="55:174" ph="{...}" />
-            <marker date="1568166432988" expanded="true" signature="101:168" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

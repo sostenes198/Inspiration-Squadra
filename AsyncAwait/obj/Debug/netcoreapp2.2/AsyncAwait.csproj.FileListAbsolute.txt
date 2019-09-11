@@ -1,0 +1,11 @@
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.deps.json
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.runtimeconfig.json
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.runtimeconfig.dev.json
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.dll
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.pdb
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.csprojAssemblyReference.cache
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.AssemblyInfoInputs.cache
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.AssemblyInfo.cs
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.dll
+D:\Projetos\Estudos\Inspiration-Squadra\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.pdb
