@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sostenes\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sostenes\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_AsyncAwait.-697362806.00" t="ExcludeRecursive" />
+    <e p="D:\Projetos\C#\Inspiration-Squadra\AsyncAwait" t="IncludeRecursive">
+      <e p="Apresentacao-Squadra" t="Include">
+        <e p="15681102642706990.png" t="Include" />
+        <e p="Apresentacao-Async-Await.pptx" t="Include" />
+        <e p="async.jpg" t="Include" />
+        <e p="correctingcommonmistakesasyncawait-190620110109.pdf" t="Include" />
+        <e p="correctingcommonmistakesasyncawait-190620110109.pptx" t="Include" />
+        <e p="Topicos.txt" t="Include" />
+      </e>
+      <e p="AsyncAwait.csproj" t="IncludeRecursive" />
+      <e p="AsyncAwait.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConfigureAwait" t="Include">
+        <e p="ConfigureAwaitTest.cs" t="Include" />
+        <e p="TesteConfigureAwait.cs" t="Include" />
+        <e p="TesteConfigureAwaitTryCatch.cs" t="Include" />
+      </e>
+      <e p="ContinueWith" t="Include">
+        <e p="ContinueWithTest.cs" t="Include" />
+        <e p="TesteContinueWithCorreto.cs" t="Include" />
+        <e p="TesteContinueWithIncorreto.cs" t="Include" />
+      </e>
+      <e p="GetAwaitGetResult" t="Include">
+        <e p="GetAwaitGetResultTest.cs" t="Include" />
+        <e p="TesteObterResultadoUtilizandoGetAwaiterGetResult.cs" t="Include" />
+        <e p="TesteObterResultadoUtilizandoResult.cs" t="Include" />
+      </e>
+      <e p="IterarNumeros" t="Include">
+        <e p="IterarNumerosTeste.cs" t="Include" />
+        <e p="TesteIterarNumeroAsync.cs" t="Include" />
+        <e p="TesteIterarNumeroAsyncConfigureAwait.cs" t="Include" />
+        <e p="TesteIterarNumeroSync.cs" t="Include" />
+        <e p="TesteIterNumeroAsyncSemCriarNovaTask.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="AsyncAwait.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="RetornoTaskMetodo" t="Include">
+        <e p="RetornoTaskMetodoTest.cs" t="Include" />
+        <e p="TesteObterResultadoMetodoTaskBlocoTryCatchCorreto.cs" t="Include" />
+        <e p="TesteObterResultadoMetodoTaskBlocoTryCatchIncorreto.cs" t="Include" />
+        <e p="TesteObterResultadoMetodoTaskFormaCorreta.cs" t="Include" />
+        <e p="TesteObterResultadoMetodoTaskFormaIncorreta.cs" t="Include" />
+      </e>
+      <e p="ValueTask" t="Include">
+        <e p="TesteValueTask.cs" t="Include" />
+        <e p="ValueTaskTest.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
